@@ -1,4 +1,7 @@
 
-@import '/superapp/src/Scss/overrides';
+
 @import '../Scss/variables';
-@import "../Scss/mixin";
+@import '../Scss/mixin';
+
+
+@import '../Components/Header/Header.scss';
