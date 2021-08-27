@@ -13,11 +13,12 @@ const Header = () => {
               <Nav className="me-auto">
                 <Nav.Link href="#home">Inicio</Nav.Link>
                 <Nav.Link href="#link">Cerrar sesión</Nav.Link>
-                
               </Nav>
             </Navbar.Collapse>
           </Container>
         </Navbar>
+
+        
       </>
     );
 }
